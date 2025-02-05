@@ -1,8 +1,15 @@
 ### Hi there, I'm Antonio Marcos 👨🏻‍💻
 
-**Programer** and postgraduate in **Software Engineering** from UFMG (Brazil);
-More than 15 years of experience in the areas of Software Development and Data Analysis;
-Advanced Knowledge in Systems Development, React, React Native, Angular, Node JS, Python, C# .NET, PHP, Java, Relational / Nonrelational Databases and their DBMS (SQL Server, MySQL, PostgreSQL, MongoDB and etc.), leadership, management and development of teams, processes and results, focused. excellence, aiming at the proposed goals in a coordinated and managed manner.
+🚀 **Software Engineer | System Architecture | Scalable Solutions**
+
+Postgraduate in Software Engineering from UFMG with **15+ years of experience** in **software development, system architecture, and data analysis**. Passionate about building **scalable, efficient, and high-performance** solutions across multiple platforms.
+
+💻 **Tech Stack:** React, React Native, Angular, Node.js, Python, C# .NET, PHP, Java.
+🗄️ **Databases:** SQL Server, MySQL, PostgreSQL, MongoDB.
+🔧 **Expertise:** System optimization, performance tuning, and data modeling.
+⚡ **Beyond Code:** Agile team management, DevOps, and automation for continuous delivery.
+
+I thrive on solving **complex problems**, leading high-performing teams, and driving **innovation** in software development.
 
 ##
 ### Some of my stats 📊
